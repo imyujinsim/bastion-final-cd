@@ -13,5 +13,5 @@ spec:
         app: was
     spec:
       containers:
-      - image: 851557167064.dkr.ecr.ap-northeast-2.amazonaws.com/demo-maven-springboot:59
+      - image: 851557167064.dkr.ecr.ap-northeast-2.amazonaws.com/demo-maven-springboot:60
         name: petclinic
